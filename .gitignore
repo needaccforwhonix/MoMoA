@@ -1,8 +1,8 @@
-node_modules/
-__pycache__
+changes.patch
+*.code-workspace
 dist
 .DS_Store
-changes.patch
-.firebase-service-account.json
 .env
-*.code-workspace
+.firebase-service-account.json
+node_modules/
+__pycache__
